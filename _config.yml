@@ -1,3 +1,4 @@
+#This is the 'theme' _config.yml file
 menu:
   Home:
   Archives: archives
@@ -14,10 +15,13 @@ widgets:
 socials:
 - name: Github
   link: https://github.com/lane128
+  icon: icon/github.png
 - name: Twitter
   link: https://twitter.com/Castiel_Lane
+  icon: icon/twitter.png
 - name: Weibo
   link: http://weibo.com/u/2129960911
+  icon: icon/weibo.png
 
 excerpt_link: Read More
 
@@ -47,5 +51,8 @@ facebook:
   comment_width: 840
   comment_colorscheme: light
 
-# Put your favicon.ico into `hexo-site/source/` directory.
+# Put your file or dir into `hexo-site/source/` directory.
 favicon: /icon/favicon.png
+#github_icon: /icon/github.png
+#twitter_icon: /icon/twitter.png
+#weibo_icon: /icon/weibo.png
