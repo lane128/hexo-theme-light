@@ -1,0 +1,10 @@
+<% if(theme.socials.length){ %>
+<div class="widget tag">
+    <h3 class="title">My Link</h3>
+    <ul class="entry">
+    <% theme.socials.forEach(function(item){ %>
+        <li><a target="_blank" href="<%= item.link %>"><%= item.name %></a></li>
+    <%}); %>
+    </ul>
+<div>
+<% } %>

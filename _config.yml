@@ -9,6 +9,15 @@ widgets:
 - tag
 - tagcloud
 - recent_posts
+- profile
+
+socials:
+- name: Github
+  link: https://github.com/lane128
+- name: Twitter
+  link: https://twitter.com/Castiel_Lane
+- name: Weibo
+  link: http://weibo.com/u/2129960911
 
 excerpt_link: Read More
 
