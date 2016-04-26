@@ -35,3 +35,6 @@ facebook:
   comment_count: 5
   comment_width: 840
   comment_colorscheme: light
+
+# Put your favicon.ico into `hexo-site/source/` directory.
+favicon: /icon/favicon.png
